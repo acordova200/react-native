@@ -1,0 +1,2 @@
+export const SET_PRESUPUESTO = 'SET_PRESUPUESTO';
+export const SET_EGRESO = 'SET_EGRESO';
